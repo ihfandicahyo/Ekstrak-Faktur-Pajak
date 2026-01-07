@@ -1,4 +1,8 @@
 # Ekstrak-Faktur-Pajak
+Python untuk ekstrak faktur pajak format pdf ke dokumen excel. 
+
+- Letakkan dokumen pdf di folder yang sama dengan python ini.
+- klik 2× pada python tersebut dan ikuti langkah selanjutnya.
 
 ## Persyaratan
 Lewati langkah 1—2 jika peranti Anda telah terpasang python, pip, pandas, openpyxl dan pdfplumber 
